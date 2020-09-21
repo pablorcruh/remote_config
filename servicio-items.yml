@@ -2,4 +2,4 @@ server:
   port: 8005
 
 configuration:
-  text: Development Environment Value
+  text: Default Development Environment Value

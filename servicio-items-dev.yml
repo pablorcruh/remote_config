@@ -1,2 +1,5 @@
 configuration:
-  text: Development Environment Value 
+  text: Development Environment Value
+  autor:
+    name:  Pablo Cruz
+    email: pablorcruh@gmail.com

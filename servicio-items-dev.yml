@@ -3,6 +3,6 @@ server:
 
 configuration:
   text: Development Environment Value
-  autor:
+  author:
     name:  Pablo Cruz
     email: pablorcruh@gmail.com

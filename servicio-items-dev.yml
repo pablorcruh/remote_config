@@ -1,3 +1,6 @@
+server:
+  port: 8006
+
 configuration:
   text: Development Environment Value
   autor:

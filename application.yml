@@ -1,0 +1,9 @@
+config:
+  security:
+    oauth:
+      client:
+        id: frontendapp
+        secret: 12345
+      jwt:
+        key: clavesecreta
+
